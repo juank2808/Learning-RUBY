@@ -1,0 +1,2 @@
+variable = "juan"
+puts variable
